@@ -1,4 +1,4 @@
-# netflix-sql-business-analytics
+# NETFLIX-SQL-ANALYTICS
 
 **Author:** Shehzad Khan
 
